@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Technology and Personal Developement**
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Strong Believer in Open
+- ⚡ Fun fact: Strong Believer Software should be free and open-source
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-martinez-108932235/) 
