@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **PHP, GO, PYTHON**
 - 👯 I’m looking to collaborate on a **Website or Backend**
 - 💬 Ask me about **Technology and Personal Developement**
-<-- - 📫 How to reach me: ... -->
+<!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Strong Believer in Open
 
