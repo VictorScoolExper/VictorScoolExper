@@ -1,18 +1,15 @@
 
 ### Hi there 👋
 
-**VictorScoolExper/VictorScoolExper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an ERP for small to medium sized business
-- 🌱 I’m currently learning PHP, GO, PYTHON
-- 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on an **ERP for small to medium sized business that involves a Web front-end make with react, a backend made with nodejs/express/jwt and a backend that uses the MySQL engine**.
+- 🌱 I’m currently learning **PHP, GO, PYTHON**
+- 👯 I’m looking to collaborate on a **Website or Backend**
+- 💬 Ask me about **Technology and Personal Developement**
+<-- - 📫 How to reach me: ... -->
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Strong Believer in Open
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-martinez-108932235/) 
