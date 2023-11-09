@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an **ERP for small to medium sized business that involves a Web front-end made with react, a backend created with nodejs/express/jwt and a backend that uses the MySQL engine**.
-- 🌱 I’m currently learning **PHP, GO, PYTHON**
+- 🌱 I’m currently learning **GOLANG**
 - 👯 I’m looking to collaborate on a **Website or Backend**
 - 💬 Ask me about **Technology and Personal Developement**
 <!-- - 📫 How to reach me: ... -->
